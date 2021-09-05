@@ -1,0 +1,24 @@
+C:\Users\WIND 10\source\repos\Konversi\Konversi\bin\Debug\Konversi.exe.config
+C:\Users\WIND 10\source\repos\Konversi\Konversi\bin\Debug\Konversi.exe
+C:\Users\WIND 10\source\repos\Konversi\Konversi\bin\Debug\Konversi.pdb
+C:\Users\WIND 10\source\repos\Konversi\Konversi\bin\Debug\Konversi.xml
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.vbprojAssemblyReference.cache
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.Form1.resources
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.Resources.resources
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.vbproj.GenerateResource.cache
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.vbproj.CoreCompileInputs.cache
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.exe
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.xml
+C:\Users\WIND 10\source\repos\Konversi\Konversi\obj\Debug\Konversi.pdb
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\bin\Debug\Konversi.exe.config
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\bin\Debug\Konversi.exe
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\bin\Debug\Konversi.pdb
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\bin\Debug\Konversi.xml
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.vbprojAssemblyReference.cache
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.Form1.resources
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.Resources.resources
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.vbproj.GenerateResource.cache
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.vbproj.CoreCompileInputs.cache
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.exe
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.xml
+C:\Users\WIND 10\Documents\Visual Studio 2019\project\Konversi\Konversi\obj\Debug\Konversi.pdb

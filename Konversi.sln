@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Konversi", "Konversi\Konversi.vbproj", "{2F079B25-E3BB-4ACE-A1F0-B87AA2167675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F079B25-E3BB-4ACE-A1F0-B87AA2167675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F079B25-E3BB-4ACE-A1F0-B87AA2167675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F079B25-E3BB-4ACE-A1F0-B87AA2167675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F079B25-E3BB-4ACE-A1F0-B87AA2167675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DECA60-306B-43E4-83A5-2B181967E149}
+	EndGlobalSection
+EndGlobal
